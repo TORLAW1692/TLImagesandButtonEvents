@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TL Images and Button Events</string>
+    <string name="txt_title">Bruschetta Recipe</string>
+    <string name="description">Recipe Image</string>
+    <string name="btn_recipe">Veiw Recipe</string>
+    <string name="txt_Ingredients">Ingredients</string>
+    <string name="txt_item1">4 plum tomatoes</string>
+    <string name="txt_item2">6 basil leaves</string>
+    <string name="txt_item3">3 garlic cloves, chopped</string>
+    <string name="txt_item4">3 T olive oil</string>
+    <string name="txt_directions">Directions</string>
+    <string name="txt_mix">Combine the ingredients and add salt to taste. Top French bread slices with mixture.</string>
+</resources>
